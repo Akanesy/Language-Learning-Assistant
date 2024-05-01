@@ -21,10 +21,11 @@ The project is segmented into milestones aligned with the last 6 weeks of the Da
 
 - **Milestone 2: Foundation Building**
   - Develop basic input and storage functionality for vocabulary by May 2nd, 2024.
-  - Implement the first version of the category organization system.
+  - Define the category organization system.
 
 - **Milestone 3: Interactivity**
   - Create the quiz generation logic and basic user interface for practice exercises by May 16th, 2024
+  - Implement the first version of the category organization system.
   
 - **Milestone 4: Testing and Feedback Integration**
   - Develop unit tests for each component of the application by May 23rd, 2024.
